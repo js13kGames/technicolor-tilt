@@ -4,6 +4,8 @@
 
 ## 🌈 Technicolor Tilt
 
+Play [Wavedash](https://wavedash.com/games/technicolor-tilt-js13k-version) version with achievements and leaderboards.
+
 A neon roguelike pinball boss rush
 
 Keep your balls alive, break boss armor, and defeat 5 increasingly dangerous bosses. Pick from 15 stackable upgrades to shape each run - from poison and critical hits to multiball chaos and even IDLE MODE.
